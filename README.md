@@ -1,6 +1,6 @@
 # ntut_project
 
-**進度Timetable**
+**進度Timetable** <br/>
 6/27 ~ 7/7 想2個以上的專題題目，並附說明於下方 <br/>
 7/8 ~ 7/12 挑一天線上meeting (meet/discord) 並選出1到2個題目，簡單撰寫專題想呈現的內容 <br/>
 7/14 彙整討論內容並詢問可行性 <br/>
